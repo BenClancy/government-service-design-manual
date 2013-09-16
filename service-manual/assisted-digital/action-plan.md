@@ -46,7 +46,7 @@ The first step is to understand how many of your users:
  
 Right now this will be an estimated figure.
 
-You might be able to identity this from existing user insight, or you may need to commission more research to fill this gap. Use the GDS ‘[Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/)’ alongside your own understanding of your users, as it provides a cross-population view of who is online and who is offline.
+You might be able to identity this from existing user insight, or you may need to commission more research to fill this gap. Use the GDS ‘[Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/)’ alongside your own understanding of your users, as it provides a cross-population view of who's online and who's offline.
 
 ###2. Understand more about your users and their needs
  
@@ -56,7 +56,7 @@ Concentrate getting information on:
 
 * the basics of these users  
 * who they are (eg socioeconomic group, age)
-* where they are located (eg are they in locations where getting access to the internet is difficult)
+* where they are located (eg are they in locations where accessing the internet is difficult)
 * why they need assisted digital support:
     * do they lack digital skills?
     * do they lack access to the internet?
