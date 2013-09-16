@@ -39,3 +39,5 @@ These aren’t the only things your service should measure. Identify unique indi
 Once live, the performance of your service will be monitored and displayed on the [performance platform](/service-manual/measurement/performance-platform.html). This data will be presented in modules capable of being uniquely configured, and (where possible) will be visible to the public.
 
 Use this data to [investigate how well a service is performing, and as a prompt for further investigation and testing](/service-manual/measurement/using-data.html).
+
+*[KPIs]: key performqnce indicators
