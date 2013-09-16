@@ -170,6 +170,6 @@ GDS are developing shared models of assisted digital support to make sure consis
 
 ###10. Review assisted digital provision regularly
  
-After 3-6 months, review your assisted digital support with your users, providers and external experts.
+After 3 to 6 months, review your assisted digital support with your users, providers and external experts.
 
 Continue to ask users for their feedback, so you know that your support is still meeting their needs. If it isn’t meeting their needs, adjust your support according to the feedback.
