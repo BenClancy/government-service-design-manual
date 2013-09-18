@@ -24,7 +24,7 @@ They are senior civil servants (generally executive or director general level) d
 
 ## Digital by default
 
-Digital leaders encourage take up of [Digital by Default](https://www.gov.uk.service-manual/digital-by-default) in their department, and with stakeholders and customers. This means actively participating in the provision of the Government Digital Strategy and Departmental Digital Strategy actions, ensuring these are fully embedded in the department’s business plan.  
+Digital leaders encourage take up of [Digital by Default](service-manual/digital-by-default) in their department, and with stakeholders and customers. This means actively participating in the provision of the Government Digital Strategy and Departmental Digital Strategy actions, ensuring these are fully embedded in the department’s business plan.  
 
 ## GOV.UK
 
