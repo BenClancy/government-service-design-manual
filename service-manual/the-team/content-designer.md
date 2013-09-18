@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Content designer
-subtitle: Writing high quality content for sites and services
+subtitle: Writing high-quality content for sites and services
 category: the-team
 type: guide
 audience:
@@ -36,7 +36,7 @@ The content designer’s job is to make sure that doesn’t happen.
 ##Skills and attributes
 Content designers must be able to:
 
-- [identify user needs](/service-manual/users) - based on legacy content, source material provided by policy colleagues, feedback from users and stakeholders and analytics data both from the site and from search engines
+- [identify user needs](/service-manual/users) - based on legacy content, source material provided by policy colleagues, feedback from users and stakeholders, and analytics data both from the site and from search engines
 - gain an in-depth knowledge of a wide range of subjects - so they can make informed decisions about the best way to present information to users
 - develop content plans and strategies - high-level plans showing how the identified user needs will be met
 - [write great content](/service-manual/user-centered-design/writing-government-services.html) - in plain English, optimised for the web and according to [house style](/designprinciples/styleguide#style-guide)
@@ -57,7 +57,7 @@ Read [guidance in the manual of particular interest to content designers](/servi
 
 ##Job description
 
-Click either of the options below to download a template Content designer job description.
+Download either of these documents for a template content designer job description:
 
 [Download as Open Office doc](/service-manual/the-team/recruitment/Contentdesigners-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Contentdesigners-generic.docx)
 
