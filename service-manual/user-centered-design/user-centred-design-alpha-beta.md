@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: User-centered design in alpha and beta
+title: User-centred design in alpha and beta
 subtitle: Combining design and research to create user focussed services
 category: user-centered-design
 type: guide
