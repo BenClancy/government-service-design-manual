@@ -57,4 +57,5 @@ The government department determines the level of assurance (LoA) they require f
 * [Blog posts from the IDA team](http://digital.cabinetoffice.gov.uk/?s=identity+assurance)
 
 *[IDAPs]: Identity Assurance Programmes
+
 *[IDAP]: Identity Assurance Programme
